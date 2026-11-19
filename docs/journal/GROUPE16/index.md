@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Étudiant 1
+title: GROUPE16
 parent: Journal de bord
 has_children: true
 ---
 
-# Étudiant 1
+# GROUPE16
 
 {: .a_modifier }
 > Remplacez « Étudiant 1 » par votre prénom et votre nom, **dans le titre de la page
